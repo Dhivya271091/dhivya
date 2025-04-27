@@ -12,7 +12,7 @@ body {
   line-height: 1.7;
 }
 .container {
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -305,7 +305,7 @@ color:#b5d43d;
 }
 
 .certifications-stats > .container {
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -584,7 +584,7 @@ color:#b5d43d;
   align-items: stretch;
   justify-content: center;
   margin-top: 15px;
-  width: 1200px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   height: auto;
@@ -647,7 +647,7 @@ color:#b5d43d;
   padding: 100px 0;
 }
 .new_events .container {
-  max-width: 1200px;
+  max-width: 100%;
   padding: 0 10px;
 }
 .news_events {
@@ -814,7 +814,7 @@ color:#b5d43d;
 }
 
 .footer_links .container {
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
@@ -877,7 +877,7 @@ color:#b5d43d;
   padding: 40px 20px;
 }
 .contact_details .container {
-  max-width: 1200px;
+  max-width: 100%;
   margin: 20px auto;
 }
 
